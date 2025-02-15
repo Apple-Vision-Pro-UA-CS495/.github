@@ -1,5 +1,5 @@
 # About
-This is the Capstone project about Apple Vision Pro for the University of Alabama CS495 class. Our project is about creating a visionOS app which allows users to upload or capture an image from Apple Vision Pro and send it to AWS Lambda server where Hugging Face models will be applied to detect objects in an image. 
+This is the Capstone project about Apple Vision Pro for the University of Alabama CS495 class. Our project is about creating a visionOS app which allows users to upload or capture an image from Apple Vision Pro and send it to AWS Lambda server where Hugging Face models will be applied to detect objects in an image. You can find the project website [here](https://apple-vision-pro-ua-cs495.github.io/project-website/).
 
 ## Repositories
 You will find 3 repositories for this project. 
